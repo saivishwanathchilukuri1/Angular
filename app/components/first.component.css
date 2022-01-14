@@ -1,0 +1,11 @@
+h1{
+    color:green;
+    text-align: center;
+    font-weight: bold;
+}
+div{
+    color:blue;
+    text-align:center;
+    border: 2px solid green;
+
+}

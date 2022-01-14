@@ -1,0 +1,12 @@
+what is a component?
+-Angular 2+ is completely build with the help of component.
+-Angular is a typescript  class which is used to represent certain section of webpages.
+-Component class is having 3 things
+    -import statements:It is used to add the component class from core library.
+    -Component decorator:It is used to specify the metadata.
+    -extract class:This class is used to define properties/data and methods/event handler.
+
+    How a component is bootstrap initialized?
+    -The Component is initialized through custom tag (selector) which is defined in components decorator 
+    section.
+    -Anyclass if we want to create it as a component we will use @Compoenet() decorator.
